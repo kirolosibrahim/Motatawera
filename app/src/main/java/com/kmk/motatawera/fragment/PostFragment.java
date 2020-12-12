@@ -54,7 +54,6 @@ public class PostFragment extends Fragment {
 
     private void getData() {
         firebaseFirestore.collection("post")
-                .orderBy("time_post", Query.Direction.DESCENDING)
                 .addSnapshotListener((value, error) -> {
                     if (error == null) {
                         if (value == null) {
