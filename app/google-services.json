@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "391856982362",
+    "project_id": "motatawera-82307",
+    "storage_bucket": "motatawera-82307.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391856982362:android:0282d36d64dc38c37b0b63",
+        "android_client_info": {
+          "package_name": "com.kmk.motatawera"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "391856982362-3f50q4bk723ed4lju5sfa7f2ochfnul3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQEH8OOsJnyAFCVqojAfc4wjq0zJrdafI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "391856982362-3f50q4bk723ed4lju5sfa7f2ochfnul3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
